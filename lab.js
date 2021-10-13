@@ -104,6 +104,11 @@ for (i = 1; i <11; i++){
 */
 
 //CODE HERE
+for (i = 10; i >= 0; i--){
+  console.log(i)
+}
+
+
 
 let score = 0
 let passingScore = 7

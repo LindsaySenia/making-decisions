@@ -18,6 +18,10 @@ console.log(firstItem)
 
 //Code Here
 
+let lastItemRemoved = arr.pop()
+
+console.log(arr)
+
 ////////// PROBLEM 3 //////////
 
 // Do not edit the code below.
